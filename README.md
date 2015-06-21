@@ -12,5 +12,5 @@ More details in CodeBook.md
 * Use source("run_analysis.R")
 * Wait a moment
 * You will find two generated files in the current working directory
-- mergedExtractData.txt
-- mergedExtractAverageData.txt
+  - mergedExtractData.txt
+  - mergedExtractAverageData.txt
